@@ -1,0 +1,46 @@
+body {
+	background-color: black;
+	position: relative;
+}
+
+#pelota {
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	border-radius: 50%;
+	position: absolute;
+	opacity: 0.8;
+}
+
+#verde {
+	width: 100px;
+	height: 100px;
+	background-color: yellowgreen;
+	border-radius: 50%;
+	margin-left: 1000px;
+	margin-top: 600px;
+	position: absolute;
+	opacity: 0.8;
+}
+
+#roja {
+	width: 100px;
+	height: 100px;
+	background-color: crimson;
+	border-radius: 50%;
+	margin-left: 80px;
+	margin-top: 700px;
+	position: absolute;
+	opacity: 0.8;
+}
+
+#azul {
+	width: 100px;
+	height: 100px;
+	background-color: dodgerblue;
+	border-radius: 50%;
+	margin-left: 800px;
+	margin-top: 130px;
+	position: absolute;
+	opacity: 0.8;
+}
